@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[52ty.me](39.108.53.243)
+[52ty.me](http://39.108.53.243)
 
 You can use the [editor on GitHub](https://github.com/felixyzeng/felixyzeng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
