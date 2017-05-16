@@ -1,5 +1,10 @@
-<html><head><title>52ty.me</title></head>
+<html>
+<head>
+<title>52ty.me</title>
+<meta http-equiv="Content-Language" content="zh-CN">
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
+<meta http-equiv="refresh" content="0.2;url=http://www.kaigesheji.com/wangzhanjianshe/">
+</head>
 <body>
-<script language='javascript'>document.location = 'http://39.108.53.243/'</script>
 </body>
 </html>
